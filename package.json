@@ -1,6 +1,6 @@
 {
   "name": "markdown-agent-memory",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "Markdown-only hierarchical memory for long-running AI agents. Zero dependencies, 7 months in production. Copy-paste install prompt for any agent.",
   "main": "src/index.js",
   "scripts": {
